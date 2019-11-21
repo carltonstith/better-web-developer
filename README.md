@@ -1,4 +1,4 @@
-# better-web-developer
+# Better Web Developer
 
 ## Project setup
 ```
