@@ -19,7 +19,7 @@
         </h1>
         <p class="subheading font-weight-regular">
            This is a list containing 10 ways a professional can be a better web engineer. This list, far from exhaustive and is ever evolving, should be used by all engineers from junior to senior.
-          <a href="#" target="_blank">Source Code</a>
+          <a href="https://github.com/carltonstith/better-web-developer" target="_blank">Source Code</a>
         </p>
       </v-flex>
 
